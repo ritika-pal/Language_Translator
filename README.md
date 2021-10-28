@@ -9,7 +9,7 @@
 <p>Language translator application has a web portal for the user interaction and REST Web API for frontend and backend interactions or third party application interactions. There are used very modern frameworks for developing front-end and backend.</p>
 <ul>
   <l>HTML, CSS, JavaScript and AJAX : This is the framework used for developing front-end of this application.</l>
-  <l>Django : This is the python framework used for developing back-end of this application. Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.</l>
+  <l><br>Django : This is the python framework used for developing back-end of this application. Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.</l>
 </ul>
 <p>There are many third-party python and other libraries used in this application for performing various tasks, the list is as follows:
 1.	Django
